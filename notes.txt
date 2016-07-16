@@ -1,6 +1,11 @@
 Speakers:
 
 Sue Squires - Finance for Geeks
+Francois Gossieaux - Modern Marketing
+Yoav Shapira - Growth Hacking
+Jeffrey Beir - Fund Raising
+Bill Wittenberg - Presentations
+
 
 
 
@@ -30,3 +35,21 @@ Yoav: Oct 20: Growth: How to achieve orbit CONFIRMED
 Bill: Nov 3: Presentation: How to get your message across CONFIRMED
 Rick: Nov 17: Murphy: How to handle setbacks CONFIRMED
 Stephen: Dec 3: Strategy: How to stay two moves ahead in chess
+
+---
+
+Topical parts of course:
+
+admin
+metrics
+finance/businessmodels/tools/pricing
+hypotheses/testing/mvp
+mockups/prototypesideas
+business skills/team work/presentations
+corporatestructures/ip
+pivot
+marketing/growth
+entrepreneurship/founding/funding/vc
+realworld
+user experience/flow?
+product architecture?
