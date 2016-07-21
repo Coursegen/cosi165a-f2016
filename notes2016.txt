@@ -30,10 +30,11 @@ Rick Treitman: [Failure]
 
 Topical parts of course:
 
-logistics
-ideas/mvp/mockups/prototypes
-hypotheses/testing/mvp/metrics/pivot
-finance/businessmodels/tools/pricing
-business skills/team work/presentations/corporatestructures/ip/agile
-marketing/growth
-entrepreneurship/founding/funding/vc/realworld
+General
+Project
+Hypotheses: ideas, vision, hypotheses/
+MVP: mvp, mockups, prototypes, tests, metrics, pivot
+Revenue: Marketing, Value Prop, Businessmodels, pricing, Growth
+Business: Finance, Entrepreneurshp, Founding, IP
+Financing: Corp Structures, Funding, Vc
+Skills:Team work, Presentations, Agile, Realworld
