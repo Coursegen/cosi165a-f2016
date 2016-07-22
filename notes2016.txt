@@ -31,10 +31,8 @@ Rick Treitman: [Failure]
 Topical parts of course:
 
 General
-Project
 Hypotheses: ideas, vision, hypotheses/
 MVP: mvp, mockups, prototypes, tests, metrics, pivot
 Revenue: Marketing, Value Prop, Businessmodels, pricing, Growth
-Business: Finance, Entrepreneurshp, Founding, IP
-Financing: Corp Structures, Funding, Vc
-Skills:Team work, Presentations, Agile, Realworld
+Entrepreneurship: Finance, Entrepreneurshp, Founding, IP, Corp Structures, Funding, Vc
+Skills: Team work, Presentations, Agile, Realworld
