@@ -1,5 +1,6 @@
 Speakers:
 
+glenn McDonald - Ideas
 Sue Squires - Finance for Geeks
 Francois Gossieaux - Modern Marketing
 Jeffrey Beir - Fund Raising
