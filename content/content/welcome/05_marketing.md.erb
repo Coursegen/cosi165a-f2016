@@ -5,9 +5,6 @@ title: Cosi 165a
   <h2>Software Entrepreneurship</h2>
   <p>Learn the "Lean Startup" conceptual framework. Find a fruitful problem space, conceive of a solution, test it, measure it, and iterate on it methodically and quickly. Have you achieved product/market fit? Does your solution have a chance as a viable business? Better to figure out before implementing the whole product! We will look at that cycle from different perspectives and with different points of view. We will learn this while working in teams to apply what we learn to two real world scenarios.</p>
   <p>Pito Salas, pitosalas@brandeis.edu</p>
-  <p>
-    <%= link_to("Enter the site!", lookup_nitem("welcome", "term_overview"), class: "btn btn-primary btn-lg") %>
-  </p>
 </div>
 
 **We want to take an idea** -- let's say a 'good idea' (see <%= link_to_topic :ideas_are_cheap %>) -- to fruition as a business that has a chance to make real money and/or have an big imact on a many real people's lives. Not a hobby that you pursue because you'd like to learn and grow -- which is fine -- but something that you have real reason to believe will make a big difference. It is said that 9 out of 10 startups fail. Our goal is to improve your odds.
@@ -20,4 +17,4 @@ I use the line "is this a hobby or a business." For this course I am not interes
 
 ### Complete Outline of Lectures
 
-<%= list_of(source: "lectures", rows: ["subsection","page"], cols: [:number, :date, :title, :desc, :homework, ]) %>
+<%= list_of(source: "lectures", rows: ["subsection","page"], cols: [:number, :date, :title, :desc, :homework, ], items: items) %>
