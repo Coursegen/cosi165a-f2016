@@ -7,7 +7,7 @@ COPYRIGHT_STRING = "Copyright (2014-2016) R. Pito Salas, pitosalas@gmail.com"
 AWS_BUCKET = "cosi165a-f2016"
 
 # Course short name
-COURSE_SHORT_NAME = "Cosi 165a"
+COURSE_SHORT_NAME = "Cosi 165a Fall 2016"
 COURSE_LONG_NAME = "Software Entrepreneurship"
 COURSE_ABBREV = "cs165"
 
@@ -15,7 +15,7 @@ COURSE_ABBREV = "cs165"
 LECTURES_SCHEDULE_CONFIG = ScheduleDef.new(
   first_day: "aug-25-2015",
   weekdays: [:tuesday, :thursday],
-  number: 26,
+  number: 27,
   skips: [],
   start_time: "15:30",
   end_time: "16:50")
