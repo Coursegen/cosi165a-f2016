@@ -1,18 +1,19 @@
 @import url(//fonts.googleapis.com/css?family=Telex);
 
 .navbar-inverse {
-	background-color: black;
+	background-color: rgb(47, 86, 111);
 }
 
-.navbar a.navbar-brand {
+.navbar a.navbar-title {
 	color: white;
 	padding-top: 7px;
 }
- 
+
 .navbar {
 	min-height: 35px;
 	margin-bottom: 1px;
 }
+
 
 .navbar a:hover {
 	color: white;
@@ -21,6 +22,13 @@
 .navbar a {
 	padding: 6px;
 	color: light-blue;
+}
+
+.navbar-title {
+  float: left;
+  height: 30px;
+  font-size: 18px;
+  line-height: 20px
 }
 
 .navbar .input-group-sm input{
@@ -36,6 +44,10 @@ h1, h2, h3, h4, h5{
 
 h3 {
 	margin-bottom: 15px;
+}
+
+h3.body-header {
+  margin-bottom: -5px;
 }
 
 h4 {
@@ -98,7 +110,7 @@ footer {
 }
 
 .glyphicon-small {
-    font-size: 10px; 
+    font-size: 10px;
 }
 
 /* Search Page */
@@ -178,8 +190,10 @@ div.tipue_search_content_loc a {
 	background-color: #f3f3f3;
 }
 
-
-
+.helpful
+{
+  visibility: hidden;
+}
 
 @media (max-width: 980px) {
 
@@ -190,4 +204,3 @@ div.tipue_search_content_loc a {
 	  padding-right: 5px;
 	}
 }
-

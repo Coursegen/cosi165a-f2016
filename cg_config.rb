@@ -1,7 +1,7 @@
 require 'coursegen'
 
 # Copyright string
-COPYRIGHT_STRING = "Copyright (2014-2016) R. Pito Salas, pitosalas@gmail.com"
+COPYRIGHT_STRING = "Copyright (2014-2016) R. Pito Salas, pitosalas@brandeis.edu"
 
 # Bucket Deployment of the course
 AWS_BUCKET = "cosi165a-f2016"
@@ -24,7 +24,7 @@ LECTURES_SCHEDULE_CONFIG = ScheduleDef.new(
 SECTION_CONFIG = [
   SectionDef.new("Welcome", "welcome", type: :section, collapsed: false, bullet: :star),
   SectionDef.new("Lectures", "lectures",
-                type: :lecture, schedule: LECTURES_SCHEDULE_CONFIG, bullet: :dash),
+                 type: :lecture, schedule: LECTURES_SCHEDULE_CONFIG, bullet: :dash),
   SectionDef.new("Background", "background", type: :section, collapsed: false),
   SectionDef.new("Topics", "topics", hidden: true, type: :section),
   SectionDef.new("Extras", "extras", hidden: true, type: :section)
@@ -32,4 +32,4 @@ SECTION_CONFIG = [
 
 # Options are:
 # bullet_style: css style for each bullet
-STYLING_CONFIG = { bullet_style: "\"font-size: 60%; width: 10px; color: grey\"" }
+STYLING_CONFIG = {bullet_style: %("font-size: 60%; width: 10px; color: grey")}
