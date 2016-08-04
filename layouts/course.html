@@ -19,7 +19,7 @@
   <body>
 
     <% @citem = Toc.instance.n2c(@item) %>
-    <div class="navbar navbar-inverse navbar-fixed-top">
+    <div class="themebg navbar navbar-inverse navbar-fixed-top">
       <%= render "/main_navbar.*", toc: Toc.instance, item: item, citem: @citem %>
     </div>
     <div class="container">
